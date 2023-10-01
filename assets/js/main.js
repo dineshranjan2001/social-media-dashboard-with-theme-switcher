@@ -3,7 +3,6 @@ let body=document.querySelector('#body');
 let headerSection=document.querySelector('.header-section');
 let followers = document.querySelector('.followers');
 let todayPreviews = document.querySelector('.today-overviews');
-console.log(data);
 
 // For followers
 data.social_media_details.forEach((data, index) => {
