@@ -6,8 +6,8 @@ output photos are available in the design folder.
 
 ### Links
 
-- Solution URL: [Add solution URL here] https://github.com/dineshranjan2001/social-media-dashboard-with-theme-switcher
-- Live Site URL: [Add live site URL here] https://dineshranjan2001.github.io/social-media-dashboard-with-theme-switcher/
+- Solution URL:  https://github.com/dineshranjan2001/social-media-dashboard-with-theme-switcher
+- Live Site URL: https://dineshranjan2001.github.io/social-media-dashboard-with-theme-switcher/
 
 
 ### Built with
